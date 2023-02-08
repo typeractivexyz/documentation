@@ -73,12 +73,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/typeractive-social.png",
       navbar: {
-        title: "My Site",
+        title: "typeractive",
         logo: {
-          alt: "My Site Logo",
+          alt: "Typeractive.xyz Logo",
           src: "img/logo.svg",
         },
         items: [
@@ -102,12 +101,14 @@ const config = {
           },
           {
             href: "https://typeractive.xyz",
-            label: "Shop",
+            'aria-label': "Shop",
+            className: 'header-shop-link',
             position: "right",
           },
           {
             href: "https://typeractive.xyz/discord",
-            label: "Discord",
+            'aria-label': "Discord",
+            className: 'header-discord-link',
             position: "right",
           },
         ],
