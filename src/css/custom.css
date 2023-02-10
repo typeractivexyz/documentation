@@ -70,3 +70,33 @@
   height: 19px;
   width: 24px;
 }
+
+.tooltip-header {
+  position: relative;
+}
+
+.tooltip-header::after {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 10px 15px;
+  visibility: hidden;
+  position: absolute;
+  text-align: center;
+  z-index: 999;
+  content: attr(data-tooltip);
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, calc(100% + 10px));
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  opacity: 0;
+  transition: opacity 0.2s 0.5s ease;
+}
+
+[data-theme=dark] .tooltip-header::after {
+  background-color: #455a64;
+}
+
+.tooltip-header:hover::after {
+  visibility: visible;
+  opacity: 1;
+}

@@ -101,54 +101,19 @@ const config = {
           },
           {
             href: "https://typeractive.xyz",
-            'aria-label': "Shop",
-            className: 'header-shop-link',
+            "aria-label": "Shop",
+            className: "header-shop-link tooltip-header",
             position: "right",
+            "data-tooltip": "Shop",
           },
           {
             href: "https://typeractive.xyz/discord",
-            'aria-label': "Discord",
-            className: 'header-discord-link',
+            "aria-label": "Discord",
+            className: "header-discord-link tooltip-header",
             position: "right",
+            "data-tooltip": "Discord",
           },
         ],
-      },
-      footer: {
-        style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/typeractivexyz/documentation",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Nice Technologies LLC. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
