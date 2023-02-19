@@ -13,11 +13,11 @@ We recommend putting most if not all of your switches into the plate first. This
 1. Ensure the switch is the correct orientation
    1. Choc: The pins on the back should be on the bottom
    2. MX: The pins should be on the top
-2. Insert the switch into the plate, make sure it's straight and that the clips are not bend outwards
+2. Insert the switch into the plate, make sure it's straight and that the clips are not bent outwards
 
 ## Inserting into the PCB
 
-1. Ensure all switches have their pins straight so they're not bent wen inserting into the PCB
+1. Ensure all switches have their pins straight so they're not bent when inserted into the PCB
 2. Slowly and carefully line up the switches with the PCB
 3. Insert the switches softly all around the PCB
 4. Once everything is lined up and slightly inserted, push down on the switches to ensure they're fully inserted
