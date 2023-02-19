@@ -8,14 +8,14 @@ The display cover helps protect your display and nice!nano from damage. In this 
 
 ## Installing the Standoffs
 
-1. Your display cover pack comes with four standoffs and nine screws (an extra for mistakes)
+1. Your display cover pack comes with four standoffs and nine screws (an extra in case you misplace one)
 2. Insert a screw into the backside of the PCB and tighten a standoff onto it
 3. Do this in the two holes on each side underneath the power switch and JST jack
 
 ## Peel the Protective paper and film
 
 1. Peel the protective paper from your display cover if they're acrylic
-2. Peel the protective film from your nice!views if you have them
+2. Peel the protective film from your nice!views if you have them (optional)
 
 ## Screw the Cover On
 

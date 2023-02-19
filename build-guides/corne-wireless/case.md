@@ -8,7 +8,7 @@ The case ties the whole build together. This guide will go over installing the c
 
 ## Screw in the Standoffs
 
-1. Your case pack comes with ten standoffs and twenty-one screws (an extra for mistakes)
+1. Your case pack comes with ten standoffs and twenty-one screws (an extra in case you misplace one)
 2. Take your screw or back-plate and insert a screw into the backside of the PCB and tighten a standoff onto it
 3. Repeat for all ten standoffs
 
