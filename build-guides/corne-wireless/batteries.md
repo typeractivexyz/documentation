@@ -18,8 +18,9 @@ This guide is meant for the batteries that we sell on our store. If you are an i
 
 ## Installing the Battery
 
-1. Plug the battery's JST connector into its jack on the PCB
-2. You may have some excess wire due to tolerances. Try to push it in so it won't interfere with the switch plate without damaging the wire
+1. Turn the power switch **off** by pulling the switch down on the side
+2. Plug the battery's JST connector into its jack on the PCB
+3. You may have some excess wire due to tolerances. Try to push it in so it won't interfere with the switch plate without damaging the wire
 
 ## Completing the Stack
 

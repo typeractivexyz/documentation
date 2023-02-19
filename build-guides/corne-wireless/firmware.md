@@ -23,6 +23,7 @@ Installing firmware on the nice!nano is easy.
 2. Enter the bootloader by double-tapping the reset button. <br/> <small>(You can skip this if you haven't flashed the nice!nano before)</small>
 3. Drag and drop the `.uf2` file onto the `NICENANO` drive or copy it with your terminal.
 4. After flashing is complete, the drive will disappear and the nice!nano will reboot. <br/> <small>Your computer may report an error when transferring the file, you can likely ignore this.[^1]</small> 
+5. If you haven't yet, you can turn the power switch **on** by pushing it up on the side of the keyboard.
 
 ## Making a Custom Keymap
 
