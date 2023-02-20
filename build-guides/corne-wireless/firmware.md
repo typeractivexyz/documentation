@@ -15,17 +15,7 @@ If you want to test out the Corne firmware on your keyboard, you can use our tes
 | 🚫 **nice!view** |[Download](/assets/corne_left-nice_nano_v2-zmk.uf2)|[Download](/assets/corne_right-nice_nano_v2-zmk.uf2)|
 | ✅ **nice!view** |[Download](/assets/corne_left-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|[Download](/assets/corne_right-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|
 
-## Installing Firmware
-
-Installing firmware on the nice!nano is easy.
-
-1. Plug in your nice!nano to your computer.
-2. Enter the bootloader by double-tapping the reset button. <br/> <small>(You can skip this if you haven't flashed the nice!nano before)</small>
-3. Drag and drop the `.uf2` file onto the `NICENANO` drive or copy it with your terminal.
-4. After flashing is complete, the drive will disappear and the nice!nano will reboot. <br/> <small>Your computer may report an error when transferring the file, you can likely ignore this.[^1]</small> 
-5. If you haven't yet, you can turn the power switch **on** by pushing it up on the side of the keyboard.
-
-## Making a Custom Keymap
+## Building Your Own Firmware
 
 With the nature of a small keyboard like the Corne, you're likely interested in making a custom keymap for it.
 
@@ -41,6 +31,16 @@ Now you can edit the `corne.keymap` file to your liking. You can find this file 
 
 After adjusting the keymap and saving your change in GitHub, a new firmware file will be built. You can find the firmware files in the `Actions` tab. Click the latest workflow and then click the `firmware` artifact under the `Artifacts` section at the bottom. A zip file with the firmware will be downloaded.
 
-Now you can update your nice!nano with the new firmware. You can find instructions on how to do this in the [Installing Firmware](#installing-firmware) section.
+Now you can update your nice!nano with the new firmware.
+
+## Installing Firmware
+
+Installing firmware on the nice!nano is easy.
+
+1. Plug in your nice!nano to your computer.
+2. Enter the bootloader by double-tapping the reset button. <br/> <small>(You can skip this if you haven't flashed the nice!nano before)</small>
+3. Drag and drop the `.uf2` file onto the `NICENANO` drive or copy it with your terminal.
+4. After flashing is complete, the drive will disappear and the nice!nano will reboot. <br/> <small>Your computer may report an error when transferring the file, you can likely ignore this.[^1]</small> 
+5. If you haven't yet, you can turn the power switch **on** by pushing it up on the side of the keyboard.
 
 [^1]: There is a known issue with transferring using Finder on macOS version 13.0. Upgrade to 13.1 to fix this issue.

@@ -10,6 +10,10 @@ Installing the batteries is a simple but particular step. This guide will go ove
 This guide is meant for the batteries that we sell on our store. If you are an international customer sourcing your batteries yourself, please follow the tips at the bottom.
 :::
 
+## Video Tutorial
+
+<iframe style={{maxWidth: "640px", aspectRatio: "16/9"}} width="100%" height="auto" src="https://www.youtube.com/embed/51evC7GNYP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Battery Orientation
 
 1. Position so the yellow taped side is on the bottom rather than top
