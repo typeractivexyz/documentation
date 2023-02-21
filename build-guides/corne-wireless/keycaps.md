@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Keycaps
 
-Keycaps are the final step in the build process. This guide will go over the keycaps and how to install them.
+Keycaps are the final step in the physical build process. This guide will go over the keycaps and how to install them.
 
 ## Types of Keycaps
 
