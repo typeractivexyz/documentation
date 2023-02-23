@@ -10,7 +10,7 @@ Installing switches is a straightforward but sometimes finicky process. This gui
 
 We recommend putting most if not all of your switches into the plate first. This is because it can be hard to push the switches into the plate if you have the PCB in the way.
 
-1. Ensure the switch is the correct orientation
+1. Ensure the switch is in the correct orientation
    1. Choc: The pins on the back should be on the bottom
    2. MX: The pins should be on the top
 2. Insert the switch into the plate, make sure it's straight and that the clips are not bent outwards

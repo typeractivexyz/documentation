@@ -14,6 +14,18 @@ Our Corne Wireless is made to make the perfect wireless keyboard. We made the fo
 
 You can customize your wireless in 3D Corne at the [keyboard customizer](https://typeractive.xyz/pages/build).
 
+## Build Videos
+
+Each of the steps on the following pages has a short video tutorial, or you can watch one of the two full build videos below.
+
+There's a concise video made by Joe Scotto that goes over the entire build process. It's a great resource if you're looking for a quick overview of the build process.
+
+<iframe style={{maxWidth: "480px", aspectRatio: "16/9"}} width="100%" height="auto" src="https://www.youtube.com/embed/FJgvi7WShxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+If you would like a longer form video with extra commentary, we have a build stream as well.
+
+<iframe style={{maxWidth: "480px", aspectRatio: "16/9"}} width="100%" height="auto" src="https://www.youtube.com/embed/uT9ohua2RwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Parts Required
 
  - Corne Wireless PCB
