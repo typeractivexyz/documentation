@@ -44,6 +44,6 @@ Unfortunately, we cannot ship batteries internationally. Because of this, here's
    - *If you find a better retailer in your country, let us know so we can list it here*
  - If you want the battery to fit underneath the nice!nano, you can't go much larger than 301230. It can *maybe* fit a 401230, but it's a tight fit.
    - Battery names are their dimensions. 301230 is 3.0mm x 12mm x 30mm.
- - If you don't want to deal with sourcing the JST connector, you can solder the battery directly to the B+ and B- pads on the nice!nano
+ - If you don't want to deal with sourcing the JST connector, you can solder the battery directly to the B+ and B- pads on the nice!nano, but you'll no longer be able to use the power switch.
 
 If you have any more questions, please feel free to ask on our [community Discord server](https://typeractive.xyz/discord). We're happy to help!
