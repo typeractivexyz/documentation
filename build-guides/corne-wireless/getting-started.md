@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# Getting Started
 
 Our Corne Wireless is made to make the perfect wireless keyboard. We made the following major changes to the Corne:
 
