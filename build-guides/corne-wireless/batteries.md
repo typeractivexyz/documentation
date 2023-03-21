@@ -39,6 +39,7 @@ You have your batteries, nice!nano, and nice!view installed! In the next guide, 
 
 Unfortunately, we cannot ship batteries internationally. Because of this, here's a list of helpful tips for sourcing your batteries:
 
+ - Our battery manufacturer has started selling on AliExpress. If you can deal with the slow shipping, you can get the batteries from them directly. [Here's the link](https://www.aliexpress.us/item/3256805162053912.html).
  - Pay attention to polarity! Battery polarity is not standardized. Compare the battery you're looking to purchase with the ones we sell to ensure you're getting the right polarity.
  - Amazon and AliExpress are your best bets for purchasing the batteries you need from our experience. 
    - *If you find a better retailer in your country, let us know so we can list it here*
