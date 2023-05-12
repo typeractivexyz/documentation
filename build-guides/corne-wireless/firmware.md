@@ -27,7 +27,7 @@ We've created ZMK config repositories for the Corne Wireless for you to fork and
 
 After forking the repository in the top right corner, you'll want to enable GitHub Actions. To do this, go to the Actions tab and click the "I understand my workflows, go ahead and enable them" button.
 
-Now you can edit the `corne.keymap` file to your liking. You can find this file in the `config` folder. For documentation on customizing your keymap, check out the [ZMK documentation](https://zmk.dev/docs/features/keymaps).
+Now you can edit the `corne.keymap` file to your liking. You can find this file in the `config` folder. For documentation on customizing your keymap, check out the [ZMK documentation](https://zmk.dev/docs/features/keymaps). **Alternatively, use the [visual online keymap editor by Nick Coutsos](https://github.com/nickcoutsos/keymap-editor), which makes things really easy!**
 
 After adjusting the keymap and saving your change in GitHub, a new firmware file will be built. You can find the firmware files in the `Actions` tab. Click the latest workflow and then click the `firmware` artifact under the `Artifacts` section at the bottom. A zip file with the firmware will be downloaded.
 
