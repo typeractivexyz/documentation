@@ -31,6 +31,18 @@ This guide is meant for the batteries that we sell on our store. If you are an i
 1. Now that the battery is in, you can insert your nice!nano back into its sockets
 2. If you have a nice!view, you can insert it into its sockets
 
+## Important Battery Information
+
+ - When charging the battery, you need to have the power switch **on**. The nice!nano will not charge the battery when the switch is off.
+ - Charging will likely take about two hours to complete for each side.
+ - Your left half should last around a week with a 110mAh battery. Your right half should last around a month. This is with displays or no displays.
+   - If it's severely less than this, there are a few possibilities.
+     - You're leaving the keyboard on when your device is off. This causes the keyboard to constantly advertise and will drain the battery.
+     - You're not turning the keyboard off when you're transporting it. In transit, keys are often held down, which uses more power.
+     - You're connected to a lot of devices. The more devices you're connected to, the more power the nice!nano needs to use to maintain those connections.
+     - You have a short somewhere on your keyboard. This is harder to diagnose, and you should join our [Discord server](https://typeractive.xyz/discord) for help.
+ - The reported battery percentage is not accurate. It's an estimate based on the voltage of the battery. Your battery may never reach exactly 100%, and it's not a cause for concern, as long as it gets to at least ~80%.
+
 ## Wrap Up
 
 You have your batteries, nice!nano, and nice!view installed! In the next guide, we'll go over the display cover.
