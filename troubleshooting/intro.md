@@ -7,7 +7,7 @@ slug: /
 
 You can find common troubleshooting tips for your wireless keyboard here. If you can't find a solution to your problem, please reach out to us on [Discord](https://typeractive.xyz/discord)!
 
-## [Keyboard Not Pairing](/troubleshooting/keyboard-not-pairing)
+## [Keyboard Not Pairing](/troubleshooting/keyboard-wont-pair)
 
 ## [Right Half Not Working](/troubleshooting/right-half-not-working)
 
