@@ -100,3 +100,29 @@
   visibility: visible;
   opacity: 1;
 }
+
+.keymap {
+  width: 100%;
+  height: auto;
+}
+
+[data-theme='light'] .keymap {
+  fill: #eee !important;
+}
+
+[data-theme='dark'] .keymap {
+  fill: rgb(36, 41, 46) !important;
+}
+
+[data-theme='light'] .keymap text {
+  fill: rgb(36, 41, 46) !important;
+}
+
+[data-theme='dark'] .keymap text {
+  fill: #eee !important;
+}
+
+.keymap .tap {
+  text-anchor: middle;
+  dominant-baseline: middle;
+}
