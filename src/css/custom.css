@@ -122,6 +122,14 @@
   fill: #eee !important;
 }
 
+[data-theme='light'] .keymap .held {
+  fill: #e57373 !important;
+}
+
+[data-theme='dark'] .keymap .held {
+  fill: #7f1d1d !important;
+}
+
 .keymap .tap {
   text-anchor: middle;
   dominant-baseline: middle;
