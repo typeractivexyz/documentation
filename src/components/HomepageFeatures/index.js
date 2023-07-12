@@ -3,16 +3,16 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {
-    title: 'Products',
-    link: '/products',
-    Svg: require('@site/static/img/products.svg').default,
-    description: (
-      <>
-        Get more details, information, and guides about our products
-      </>
-    ),
-  },
+  // {
+  //   title: 'Products',
+  //   link: '/products',
+  //   Svg: require('@site/static/img/products.svg').default,
+  //   description: (
+  //     <>
+  //       Get more details, information, and guides about our products
+  //     </>
+  //   ),
+  // },
   {
     title: 'Build Guides',
     link: '/build-guides',
@@ -53,7 +53,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
+        <div className="row" style={{justifyContent: 'center'}}>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
