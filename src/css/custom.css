@@ -4,18 +4,11 @@
  * work well for content-centric websites.
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700;900&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: hsl(190, 100%, 28%);
-  --ifm-color-primary-dark: hsl(190, 100%, 25%);
-  --ifm-color-primary-darker: hsl(190, 100%, 24%);
-  --ifm-color-primary-darkest: hsl(190, 100%, 20%);
-  --ifm-color-primary-light: hsl(190, 100%, 31%);
-  --ifm-color-primary-lighter: hsl(190, 100%, 32%);
-  --ifm-color-primary-lightest: hsl(190, 100%, 36%);
   --ifm-code-font-size: 95%;
   --ifm-font-family-base: 'Nunito Sans', sans-serif;
   --ifm-heading-font-family: 'Poppins', sans-serif;
@@ -55,7 +48,7 @@
 .navbar__title {
   font-size: 1.25rem;
   font-family: 'Poppins', sans-serif;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 [data-theme=dark] .header-shop-link:before {
