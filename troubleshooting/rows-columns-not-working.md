@@ -1,5 +1,5 @@
 ---
-description: Get troubleshooting tips to fix row(s)) or column(s) not working on your keyboard.
+description: Get troubleshooting tips to fix row(s) or column(s) not working on your keyboard.
 ---
 
 # Row(s) or Column(s) Not Working
@@ -10,7 +10,7 @@ Each row and column is controlled by a single pin on the nice!nano. The most lik
 
 ## Identifying the pins for the row or column
 
-To identify which pin goes with which row/column, you'll want to check the schematic of your keyboard and match it with the nice!nano pins. We've conveniently done this for each of our kits. Check the build guide's troubleshooting page (last page of the guide) for your specific kit to find which pin goes with which row/column.
+To identify which pin goes with which row/column, you'll want to check the schematic of your keyboard and match it with the nice!nano pins. We've conveniently done this for each of our kits. Check your kit's [build guide](/build-guides) troubleshooting page (last page of the kit's guide) to find which pin goes with which row/column.
 
 ## Checking the solder joints
 
