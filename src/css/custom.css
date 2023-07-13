@@ -140,7 +140,7 @@
 
 .theme-doc-sidebar-menu > li:not(:last-child) {
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid var(--ifm-card-background-color);
+  border-bottom: 2px solid var(--ifm-hover-overlay);
 }
 
 .theme-doc-sidebar-menu > li:not(:first-child) {
@@ -148,8 +148,12 @@
   margin-top: 0;
 }
 
-@media only screen and (max-width: 996px) {
-  .theme-doc-sidebar-menu>li:not(:last-child) {
-    border-bottom: 2px solid var(--ifm-hover-overlay);
+@media only screen and (min-width: 996px) {
+  [data-theme='dark'] .theme-doc-sidebar-menu>li:not(:last-child) {
+    border-bottom: 2px solid var(--ifm-card-background-color);
   }
+}
+
+.navbar-sidebar__back {
+  display: none;
 }
