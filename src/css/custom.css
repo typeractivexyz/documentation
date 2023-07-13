@@ -18,7 +18,6 @@
 .navbar__inner {
   max-width: 1800px;
   margin: 0 auto;
-  padding: 0 16px;
 }
 
 .main-wrapper > div {
@@ -137,4 +136,20 @@
 .keymap .tap {
   text-anchor: middle;
   dominant-baseline: middle;
+}
+
+.theme-doc-sidebar-menu > li:not(:last-child) {
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--ifm-card-background-color);
+}
+
+.theme-doc-sidebar-menu > li:not(:first-child) {
+  padding-top: 0.5rem;
+  margin-top: 0;
+}
+
+@media only screen and (max-width: 996px) {
+  .theme-doc-sidebar-menu>li:not(:last-child) {
+    border-bottom: 2px solid var(--ifm-hover-overlay);
+  }
 }

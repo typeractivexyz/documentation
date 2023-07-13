@@ -1,0 +1,26 @@
+name: Build Search Index
+
+on:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Wait for Cloudflare deploy
+        run: sleep 5m
+        shell: bash
+
+      - name: Setup repo
+        uses: actions/checkout@v3
+
+      - uses: darrenjennings/algolia-docsearch-action@master
+        with:
+          algolia_application_id: ${{ secrets.ALGOLIA_APP_ID }}
+          algolia_api_key: ${{ secrets.ALGOLIA_API_KEY }}
+          file: 'algolia.json'

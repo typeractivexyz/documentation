@@ -4,7 +4,7 @@ description: Build guides and troubleshooting documentation for Typeractive.xyz.
 sidebar_position: 1
 ---
 
-# Introduction
+# 👋 Introduction
 
 Welcome to the Typeractive documentation! Here you'll find build guides and troubleshooting documentation for all of our kits.
 
