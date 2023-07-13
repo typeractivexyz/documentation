@@ -1,3 +1,0 @@
-# nice!view
-
-*Coming Soon*

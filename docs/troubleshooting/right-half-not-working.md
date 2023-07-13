@@ -1,5 +1,5 @@
 ---
-description: Get troubleshooting tips to fix your right half ZMK keyboard.
+description: Fix the right half ZMK keyboard.
 ---
 
 # Right Half Not Working

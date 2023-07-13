@@ -1,5 +1,5 @@
 ---
-description: Get troubleshooting tips to fix a single key not working on your keyboard.
+description: Fix a single key not working on your keyboard.
 ---
 
 # Single Key Not Working

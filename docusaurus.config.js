@@ -1,8 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require('prism-react-renderer/themes/duotoneLight');
+const darkCodeTheme = require('prism-react-renderer/themes/oceanicNext');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -34,40 +34,18 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: "products",
-          routeBasePath: "products",
+          path: "docs",
+          routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/typeractivexyz/documentation/tree/main",
         },
+        blog: false,
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
       }),
-    ],
-  ],
-
-  plugins: [
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "build-guides",
-        path: "build-guides",
-        routeBasePath: "build-guides",
-        sidebarPath: require.resolve("./sidebars.js"),
-        editUrl: "https://github.com/typeractivexyz/documentation/tree/main",
-      },
-    ],
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "troubleshooting",
-        path: "troubleshooting",
-        routeBasePath: "troubleshooting",
-        sidebarPath: require.resolve("./sidebars.js"),
-        editUrl: "https://github.com/typeractivexyz/documentation/tree/main",
-      },
     ],
   ],
 
@@ -82,24 +60,6 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
-          // {
-          //   type: "doc",
-          //   docId: "intro",
-          //   position: "left",
-          //   label: "Products",
-          // },
-          {
-            to: "build-guides",
-            position: "left",
-            label: "Build Guides",
-            activeBaseRegex: `/build-guides/`,
-          },
-          {
-            to: "troubleshooting",
-            position: "left",
-            label: "Troubleshooting",
-            activeBaseRegex: `/troubleshooting/`,
-          },
           {
             href: "https://typeractive.xyz",
             "aria-label": "Shop",
@@ -124,6 +84,26 @@ const config = {
         defaultMode: "light",
         disableSwitch: false,
         respectPrefersColorScheme: true,
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "VFSNSU0UZJ",
+
+        // Public API key: it is safe to commit it
+        apiKey: "bcd7ec372615a69eb6a0316ba414e1dd",
+
+        indexName: "docs.typeractive.xyz",
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: "search",
+
+        //... other Algolia params
       },
     }),
 };

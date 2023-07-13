@@ -1,3 +1,0 @@
-# Pinecil
-
-*Coming Soon*

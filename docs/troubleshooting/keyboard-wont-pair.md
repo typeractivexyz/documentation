@@ -1,5 +1,5 @@
 ---
-description: Get troubleshooting tips to fix your ZMK keyboard that won't pair.
+description: Fix your ZMK keyboard that won't pair.
 ---
 
 # Keyboard Won't Pair

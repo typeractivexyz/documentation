@@ -1,5 +1,5 @@
 ---
-description: Get troubleshooting tips to fix row(s) or column(s) not working on your keyboard.
+description: Fix row(s) or column(s) not working on your keyboard.
 ---
 
 # Row(s) or Column(s) Not Working

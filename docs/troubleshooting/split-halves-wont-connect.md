@@ -1,5 +1,5 @@
 ---
-description: Get troubleshooting tips to fix your split ZMK keyboard halves not pairing.
+description: Fix your split ZMK keyboard halves not pairing.
 ---
 
 # Split Halves Won't Connect
