@@ -6,6 +6,10 @@ sidebar_position: 3
 
 If you have nice!views with your build, this guide will go over installing the sockets and headers. If you don't have nice!views, you can skip this guide.
 
+:::info
+If you're using no-solder headers, you just need to insert them by the plastic part into the PCB and then push the nice!view into the headers. You can skip the rest of this guide.
+:::
+
 ## Video Tutorial
 
 <iframe style={{maxWidth: "640px", aspectRatio: "16/9"}} width="100%" height="auto" src="https://www.youtube.com/embed/RqK0xFIlSj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -18,6 +18,7 @@ Installing your nice!nano is usually the first step in building your keyboard. I
 ```mdx-code-block
 <Tabs groupId="solder-method">
   <TabItem value="ez-solder" label="EZ-Solder Hotswap" default></TabItem>
+  <TabItem value="no-solder" label="No-Solder Hotswap"></TabItem>
   <TabItem value="mill-max-solder" label="Mill-Max Hotswap"></TabItem>
   <TabItem value="square-post" label="Included Headers" >
 ```
@@ -42,6 +43,13 @@ If you're using the included headers, you'll need to install your battery **befo
   3. Flip the PCB over and solder the top and bottom pins and ensure the socket is flush and straight with the PCB
   4. Take off the optional tape
   5. Solder the rest of the pins
+```mdx-code-block
+  </TabItem>
+  <TabItem value="no-solder" label="No-Solder Hotswap">
+```
+Since these are ***no***-solder headers, you won't need to solder anything. Just follow the steps below to install your header to the PCB.
+  1. Take your headers (the part with the holes) and insert them into the top of the PCB (the side with the JST, power switch, and reset button)
+  2. Use the plastic part of the header to push the pins into the PCB. The plastic should be flush with the PCB when fully inserted
 ```mdx-code-block
   </TabItem>
   <TabItem value="mill-max-solder" label="Mill-Max Hotswap">
@@ -71,6 +79,11 @@ If you're using the included headers, you'll need to install your battery **befo
 ```
   1. Insert your headers into the sockets. Push down on the plastic part so you don't poke yourself!
   2. Ensure the headers are flush against the sockets
+```mdx-code-block
+  </TabItem>
+  <TabItem value="no-solder" label="No-Solder Hotswap">
+```
+There are no pins to insert with the no-solder headers. Jump over to the [battery guide](./batteries) to install your battery, and then come back here to install your nice!nano.
 ```mdx-code-block
   </TabItem>
   <TabItem value="mill-max-solder" label="Mill-Max Hotswap">
@@ -105,6 +118,16 @@ If you're using the included headers, you'll need to install your battery **befo
 You'll now want to slowly pry the nice!nano out of the sockets to continue the build.
 
 Try to pull the nice!nano straight up if possible to avoid bent pins when pulling it out. Alternatively, take a blunt, thin object and *very* slowly pry the nice!nano from either side until it is removed. In the end, a sudden jolt will happen when the nano comes out. The less, more controlled force will help avoid bent pins.
+```mdx-code-block
+  </TabItem>
+  <TabItem value="no-solder" label="No-Solder Hotswap">
+```
+Since these are ***no***-solder headers, you won't need to solder anything. Just follow the steps below to install your nice!nano.
+
+  1. Place the nice!nano **face down**[^1] on the headers
+  2. Ensure that the top left and top right pins (B+/B-) do not have pins in them. Only the bottom 12 on each column should have them
+  3. Push the nice!nano firmly down into the headers. The pins should be slightly peeking out
+  4. That's it! Your nice!nano is now installed without any soldering
 ```mdx-code-block
   </TabItem>
   <TabItem value="mill-max-solder" label="Mill-Max Hotswap">
