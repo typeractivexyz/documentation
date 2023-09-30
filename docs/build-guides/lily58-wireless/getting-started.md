@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Getting Started
 
-Our Corne Wireless is made to make the perfect wireless keyboard. We made the following major changes to the Corne:
+Our Lily58 Wireless is made to make the perfect wireless keyboard. We made the following major changes to the Lily58:
 
  - Power Switch: Turn off your board when traveling or when not in use
  - JST Jack: Easily and safely install your batteries
@@ -12,9 +12,13 @@ Our Corne Wireless is made to make the perfect wireless keyboard. We made the fo
  - Partially Assembled: No need to solder the hotswap sockets, diodes, reset button, power switch, or JST jack
  - Choc PCB: Our Choc PCB is using Choc spacing, which makes it more compact than usual
 
-You can customize your wireless in 3D Corne at the [keyboard customizer](https://typeractive.xyz/pages/build).
+You can customize your wireless in 3D Lily58 at the [keyboard customizer](https://typeractive.xyz/pages/build).
 
 ## Build Videos
+
+:::caution
+The Lily58 Wireless is a new product, and we're still working on the build videos. We'll have them up as soon as possible. For now, the Corne build videos are here in place, as the build process is nearly identical.
+:::
 
 Each of the steps on the following pages has a short video tutorial, or you can watch one of the two full build videos below.
 
@@ -28,9 +32,9 @@ If you would like a longer form video with extra commentary, we have a build str
 
 ## Parts Required
 
- - Corne Wireless PCB
- - Corne Case
- - Corne Display Cover
+ - Lily58 Wireless PCB
+ - Lily58 Case
+ - Lily58 Display Cover
  - 2x 110mAh 301230 batteries
  - 2x nice!nano
    - 2x hotswap sockets highly recommended

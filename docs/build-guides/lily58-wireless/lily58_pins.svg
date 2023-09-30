@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="400"
+   viewBox="0 0 1000 399.99999"
+   class="keymap"
+   version="1.1"
+   id="svg568"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs572" />
+  <style
+     id="style2">/* inherit to force styles through use tags*/
+svg path {
+    fill: inherit;
+}
+/* font and background color specifications */
+svg.keymap {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-size: 14px;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+    fill: #24292e;
+}
+
+/* default key styling */
+rect.key {
+    fill: #f6f8fa;
+    stroke: #c9cccf;
+    stroke-width: 1;
+}
+
+/* color accent for combo boxes */
+rect.combo {
+    fill: #cdf;
+}
+
+/* color accent for held keys */
+rect.held, rect.combo.held {
+    fill: #fdd;
+}
+
+/* color accent for ghost (optional) keys */
+rect.ghost, rect.combo.ghost {
+    fill: #ddd;
+}
+
+text {
+    text-anchor: middle;
+    dominant-baseline: middle;
+}
+
+/* styling for layer labels */
+text.label {
+    font-weight: bold;
+    text-anchor: start;
+    stroke: white;
+    stroke-width: 2;
+    paint-order: stroke;
+}
+
+/* styling for combo tap, and key hold/shifted label text */
+text.combo, text.hold, text.shifted {
+    font-size: 11px;
+}
+
+text.hold {
+    text-anchor: middle;
+    dominant-baseline: auto;
+}
+
+text.shifted {
+    text-anchor: middle;
+    dominant-baseline: hanging;
+}
+
+/* styling for hold/shifted label text in combo box */
+text.combo.hold, text.combo.shifted {
+    font-size: 8px;
+}
+
+/* lighter symbol for transparent keys */
+text.trans {
+    fill: #7b7e81;
+}
+
+/* styling for combo dendrons */
+path.combo {
+    stroke-width: 1;
+    stroke: gray;
+    fill: none;
+}
+
+/* Start Tabler Icons Cleanup */
+/* cannot use height/width with glyphs */
+.icon-tabler &gt; path {
+    fill: inherit;
+    stroke: inherit;
+}
+/* hide tabler's default box */
+.icon-tabler &gt; path[stroke=&quot;none&quot;][fill=&quot;none&quot;] {
+    visibility: collapse;
+}
+/* End Tabler Icons Cleanup */
+</style>
+  <g
+     class="layer-default"
+     id="g182"
+     transform="translate(86.934267,38.637452)">
+    <rect
+       rx="6"
+       ry="6"
+       x="26.204342"
+       y="91.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect6" />
+    <text
+       x="52.204342"
+       y="117.5209"
+       class="tap"
+       id="text8">TAB</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="-50.044842"
+       y="101.42691"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7"
+       style="stroke-width:0.796393" />
+    <text
+       x="-20.720455"
+       y="117.32266"
+       class="tap"
+       id="text8-0"
+       style="dominant-baseline:middle;text-anchor:middle">P0.22</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="199.20088"
+       y="248.2368"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="228.52527"
+       y="264.13254"
+       class="tap"
+       id="text8-0-17"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P0.31</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="160.06694"
+       y="209.10286"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9-2"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="189.39133"
+       y="224.99861"
+       class="tap"
+       id="text8-0-17-9"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P0.29</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="120.72998"
+       y="169.76591"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9-8"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="150.05437"
+       y="185.66167"
+       class="tap"
+       id="text8-0-17-2"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P0.02</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="81.333511"
+       y="130.48845"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9-0"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="110.65789"
+       y="146.3842"
+       class="tap"
+       id="text8-0-17-7"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P1.15</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="41.996559"
+       y="91.151489"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9-4"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="71.320938"
+       y="107.04725"
+       class="tap"
+       id="text8-0-17-8"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P1.13</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="2.6595984"
+       y="51.814533"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9-5"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="31.983986"
+       y="67.710281"
+       class="tap"
+       id="text8-0-17-83"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P1.11</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="553.07544"
+       y="601.7605"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9-40"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="582.39984"
+       y="617.65625"
+       class="tap"
+       id="text8-0-17-0"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P1.11</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="513.94153"
+       y="562.62653"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9-2-9"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="543.26587"
+       y="578.52228"
+       class="tap"
+       id="text8-0-17-9-3"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P1.13</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="474.60452"
+       y="523.28961"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9-8-7"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="503.92899"
+       y="539.18536"
+       class="tap"
+       id="text8-0-17-2-5"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P1.15</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="435.20807"
+       y="484.01205"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9-0-7"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="464.53244"
+       y="499.90781"
+       class="tap"
+       id="text8-0-17-7-2"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P0.02</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="395.87112"
+       y="444.67511"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9-4-9"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="425.1955"
+       y="460.57086"
+       class="tap"
+       id="text8-0-17-8-7"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P0.29</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="356.53415"
+       y="405.33813"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-9-5-5"
+       style="stroke-width:0.796393"
+       transform="rotate(-45)" />
+    <text
+       x="385.85855"
+       y="421.23389"
+       class="tap"
+       id="text8-0-17-83-6"
+       style="dominant-baseline:middle;text-anchor:middle"
+       transform="rotate(-45)">P0.31</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="-49.966228"
+       y="157.63199"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-1"
+       style="stroke-width:0.796393" />
+    <text
+       x="-20.64184"
+       y="173.52774"
+       class="tap"
+       id="text8-0-4"
+       style="dominant-baseline:middle;text-anchor:middle">P0.24</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="-49.966228"
+       y="213.62515"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-7"
+       style="stroke-width:0.796393" />
+    <text
+       x="-20.64184"
+       y="229.5209"
+       class="tap"
+       id="text8-0-1"
+       style="dominant-baseline:middle;text-anchor:middle">P1.00</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="82.204338"
+       y="91.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect10" />
+    <text
+       x="108.20434"
+       y="117.5209"
+       class="tap"
+       id="text12">Q</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="138.20435"
+       y="77.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect14" />
+    <text
+       x="164.20435"
+       y="103.5209"
+       class="tap"
+       id="text16">W</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="194.20435"
+       y="70.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect18" />
+    <text
+       x="220.20435"
+       y="96.520905"
+       class="tap"
+       id="text20">E</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="250.20435"
+       y="77.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect22" />
+    <text
+       x="276.20435"
+       y="103.5209"
+       class="tap"
+       id="text24">R</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="306.20435"
+       y="84.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect26" />
+    <text
+       x="332.20435"
+       y="110.5209"
+       class="tap"
+       id="text28">T</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="530.20435"
+       y="84.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect30" />
+    <text
+       x="556.20435"
+       y="110.5209"
+       class="tap"
+       id="text32">Y</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="586.20435"
+       y="77.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect34" />
+    <text
+       x="612.20435"
+       y="103.5209"
+       class="tap"
+       id="text36">U</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="642.20435"
+       y="70.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect38" />
+    <text
+       x="668.20435"
+       y="96.520905"
+       class="tap"
+       id="text40">I</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="698.20435"
+       y="77.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect42" />
+    <text
+       x="724.20435"
+       y="103.5209"
+       class="tap"
+       id="text44">O</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="754.20435"
+       y="91.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect46" />
+    <text
+       x="780.20435"
+       y="117.5209"
+       class="tap"
+       id="text48">P</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="810.20435"
+       y="91.520905"
+       width="52"
+       height="52"
+       class="key"
+       id="rect50" />
+    <text
+       x="836.20435"
+       y="117.5209"
+       class="tap"
+       id="text52">BSPC</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="26.204342"
+       y="147.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect54" />
+    <text
+       x="52.204342"
+       y="173.5209"
+       class="tap"
+       id="text56">LCTRL</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="82.204338"
+       y="147.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect58" />
+    <text
+       x="108.20434"
+       y="173.5209"
+       class="tap"
+       id="text60">A</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="138.20435"
+       y="133.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect62" />
+    <text
+       x="164.20435"
+       y="159.5209"
+       class="tap"
+       id="text64">S</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="194.20435"
+       y="126.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect66" />
+    <text
+       x="220.20435"
+       y="152.5209"
+       class="tap"
+       id="text68">D</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="250.20435"
+       y="133.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect70" />
+    <text
+       x="276.20435"
+       y="159.5209"
+       class="tap"
+       id="text72">F</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="306.20435"
+       y="140.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect74" />
+    <text
+       x="332.20435"
+       y="166.5209"
+       class="tap"
+       id="text76">G</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="530.20435"
+       y="140.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect78" />
+    <text
+       x="556.20435"
+       y="166.5209"
+       class="tap"
+       id="text80">H</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="586.20435"
+       y="133.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect82" />
+    <text
+       x="612.20435"
+       y="159.5209"
+       class="tap"
+       id="text84">J</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="642.20435"
+       y="126.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect86" />
+    <text
+       x="668.20435"
+       y="152.5209"
+       class="tap"
+       id="text88">K</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="698.20435"
+       y="133.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect90" />
+    <text
+       x="724.20435"
+       y="159.5209"
+       class="tap"
+       id="text92">L</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="754.20435"
+       y="147.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect94" />
+    <text
+       x="780.20435"
+       y="173.5209"
+       class="tap"
+       id="text96">;</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="810.20435"
+       y="147.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect98" />
+    <text
+       x="836.20435"
+       y="173.5209"
+       class="tap"
+       id="text100">'</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="26.204342"
+       y="203.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect102" />
+    <text
+       x="52.204342"
+       y="229.5209"
+       class="tap"
+       id="text104">LSHFT</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="82.204338"
+       y="203.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect106" />
+    <text
+       x="108.20434"
+       y="229.5209"
+       class="tap"
+       id="text108">Z</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="138.20435"
+       y="189.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect110" />
+    <text
+       x="164.20435"
+       y="215.5209"
+       class="tap"
+       id="text112">X</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="194.20435"
+       y="182.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect114" />
+    <text
+       x="220.20435"
+       y="208.5209"
+       class="tap"
+       id="text116">C</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="250.20435"
+       y="189.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect118" />
+    <text
+       x="276.20435"
+       y="215.5209"
+       class="tap"
+       id="text120">V</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="306.20435"
+       y="196.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect122" />
+    <text
+       x="332.20435"
+       y="222.5209"
+       class="tap"
+       id="text124">B</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="530.20435"
+       y="196.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect126" />
+    <text
+       x="556.20435"
+       y="222.5209"
+       class="tap"
+       id="text128">N</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="586.20435"
+       y="189.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect130" />
+    <text
+       x="612.20435"
+       y="215.5209"
+       class="tap"
+       id="text132">M</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="642.20435"
+       y="182.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect134" />
+    <text
+       x="668.20435"
+       y="208.5209"
+       class="tap"
+       id="text136">,</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="698.20435"
+       y="189.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect138" />
+    <text
+       x="724.20435"
+       y="215.5209"
+       class="tap"
+       id="text140">.</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="754.20435"
+       y="203.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect142" />
+    <text
+       x="780.20435"
+       y="229.5209"
+       class="tap"
+       id="text144">/</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="810.20435"
+       y="203.5209"
+       width="52"
+       height="52"
+       class="key"
+       id="rect146" />
+    <text
+       x="836.20435"
+       y="229.5209"
+       class="tap"
+       id="text148">ESC</text>
+    <rect
+       rx="6"
+       ry="6"
+       x="222.20435"
+       y="247.36891"
+       width="52"
+       height="52"
+       class="key"
+       id="rect150" />
+    <text
+       x="248.20435"
+       y="273.3689"
+       class="tap"
+       id="text152">LGUI</text>
+    <g
+       transform="rotate(15,265.14933,253.32925)"
+       id="g158">
+      <rect
+         rx="6"
+         ry="6"
+         x="289.60001"
+         y="243.08"
+         width="52"
+         height="52"
+         class="key"
+         id="rect154" />
+      <text
+         x="315.60001"
+         y="269.07999"
+         class="tap"
+         id="text156">lower</text>
+    </g>
+    <g
+       transform="rotate(30,354.85785,275.7256)"
+       id="g164">
+      <rect
+         rx="6"
+         ry="6"
+         x="355.12"
+         y="240.28"
+         width="52"
+         height="80"
+         class="key"
+         id="rect160" />
+      <text
+         x="381.12"
+         y="280.28"
+         class="tap"
+         id="text162">SPACE</text>
+    </g>
+    <g
+       transform="rotate(-30,539.34649,297.3553)"
+       id="g170">
+      <rect
+         rx="6"
+         ry="6"
+         x="492.88"
+         y="240.28"
+         width="52"
+         height="80"
+         class="key"
+         id="rect166" />
+      <text
+         x="518.88"
+         y="280.28"
+         class="tap"
+         id="text168">RET</text>
+    </g>
+    <g
+       transform="rotate(-15,629.05501,297.35165)"
+       id="g176">
+      <rect
+         rx="6"
+         ry="6"
+         x="558.40002"
+         y="243.08"
+         width="52"
+         height="52"
+         class="key"
+         id="rect172" />
+      <text
+         x="584.40002"
+         y="269.07999"
+         class="tap"
+         id="text174">raise</text>
+    </g>
+    <rect
+       rx="6"
+       ry="6"
+       x="614.20435"
+       y="247.36891"
+       width="52"
+       height="52"
+       class="key"
+       id="rect178" />
+    <text
+       x="640.20435"
+       y="273.3689"
+       class="tap"
+       id="text180">RALT</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="-49.966228"
+       y="269.61832"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-3"
+       style="stroke-width:0.796393" />
+    <text
+       x="-20.64184"
+       y="285.51407"
+       class="tap"
+       id="text8-0-8"
+       style="dominant-baseline:middle;text-anchor:middle">P0.11</text>
+  </g>
+</svg>
