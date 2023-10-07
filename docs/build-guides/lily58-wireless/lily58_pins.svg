@@ -6,8 +6,31 @@
    class="keymap"
    version="1.1"
    id="svg568"
+   sodipodi:docname="lily58_pins.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview311"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.5269189"
+     inkscape:cx="413.34924"
+     inkscape:cy="207.56503"
+     inkscape:window-width="3840"
+     inkscape:window-height="2071"
+     inkscape:window-x="2691"
+     inkscape:window-y="1155"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g182" />
   <defs
      id="defs572" />
   <style
@@ -141,7 +164,7 @@ path.combo {
        class="tap"
        id="text8-0-17"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P0.10</text>
+       transform="rotate(-45)">P1.15</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -159,7 +182,7 @@ path.combo {
        class="tap"
        id="text8-0-17-9"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P0.09</text>
+       transform="rotate(-45)">P0.02</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -177,7 +200,7 @@ path.combo {
        class="tap"
        id="text8-0-17-2"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P0.02</text>
+       transform="rotate(-45)">P0.09</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -195,7 +218,7 @@ path.combo {
        class="tap"
        id="text8-0-17-7"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P1.15</text>
+       transform="rotate(-45)">P0.10</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -213,7 +236,7 @@ path.combo {
        class="tap"
        id="text8-0-17-8"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P1.13</text>
+       transform="rotate(-45)">P1.11</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -231,7 +254,7 @@ path.combo {
        class="tap"
        id="text8-0-17-83"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P1.11</text>
+       transform="rotate(-45)">P1.13</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -249,7 +272,7 @@ path.combo {
        class="tap"
        id="text8-0-17-0"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P1.11</text>
+       transform="rotate(-45)">P1.13</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -267,7 +290,7 @@ path.combo {
        class="tap"
        id="text8-0-17-9-3"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P1.13</text>
+       transform="rotate(-45)">P1.11</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -285,7 +308,7 @@ path.combo {
        class="tap"
        id="text8-0-17-2-5"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P1.15</text>
+       transform="rotate(-45)">P0.10</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -303,7 +326,7 @@ path.combo {
        class="tap"
        id="text8-0-17-7-2"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P0.02</text>
+       transform="rotate(-45)">P0.09</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -321,7 +344,7 @@ path.combo {
        class="tap"
        id="text8-0-17-8-7"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P0.09</text>
+       transform="rotate(-45)">P0.02</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -339,7 +362,7 @@ path.combo {
        class="tap"
        id="text8-0-17-83-6"
        style="dominant-baseline:middle;text-anchor:middle"
-       transform="rotate(-45)">P0.10</text>
+       transform="rotate(-45)">P1.15</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
