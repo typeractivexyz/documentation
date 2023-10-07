@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.5269189"
-     inkscape:cx="413.34924"
-     inkscape:cy="207.56503"
+     inkscape:cx="413.74498"
+     inkscape:cy="207.96077"
      inkscape:window-width="3840"
      inkscape:window-height="2071"
      inkscape:window-x="2691"
@@ -146,7 +146,7 @@ path.combo {
        y="123.65449"
        class="tap"
        id="text8-0"
-       style="dominant-baseline:middle;text-anchor:middle">P0.22</text>
+       style="dominant-baseline:middle;text-anchor:middle">P0.24</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -378,7 +378,7 @@ path.combo {
        y="179.85956"
        class="tap"
        id="text8-0-4"
-       style="dominant-baseline:middle;text-anchor:middle">P0.24</text>
+       style="dominant-baseline:middle;text-anchor:middle">P1.00</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -394,7 +394,7 @@ path.combo {
        y="235.85272"
        class="tap"
        id="text8-0-1"
-       style="dominant-baseline:middle;text-anchor:middle">P1.00</text>
+       style="dominant-baseline:middle;text-anchor:middle">P0.11</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -410,7 +410,7 @@ path.combo {
        y="291.84589"
        class="tap"
        id="text8-0-8"
-       style="dominant-baseline:middle;text-anchor:middle">P0.11</text>
+       style="dominant-baseline:middle;text-anchor:middle">P1.04</text>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -425,7 +425,7 @@ path.combo {
        y="347.98819"
        class="tap"
        id="text8-0-8-3"
-       style="dominant-baseline:middle;text-anchor:middle">P1.04</text>
+       style="dominant-baseline:middle;text-anchor:middle">P1.06</text>
     <g
        transform="translate(55.546678,123.51005)"
        class="key keypos-0"
