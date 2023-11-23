@@ -53,7 +53,7 @@ Unfortunately, we cannot ship batteries internationally. Because of this, here's
 
  - Our battery manufacturer has started selling on AliExpress. If you can deal with the slow shipping, you can get the batteries from them directly. [Here's the link](https://www.aliexpress.us/item/3256805162053912.html). Make sure to select the battery with the black connector; the large image does not always correspond to the selected option. Currently, it's the 3rd option.
  - Pay attention to polarity! Battery polarity is not standardized. Compare the battery you're looking to purchase with the ones we sell to ensure you're getting the right polarity.
- - Amazon and AliExpress are your best bets for purchasing the batteries you need from our experience. 
+ - Amazon and AliExpress are your best bets for purchasing the batteries you need from our experience. For Canada, you can get the batteries from [Clickety Split](https://clicketysplit.ca/products/lipo-battery-301230-3-7v-110mah-with-jst-ph-2), the JST connector is compatible (type B). 
    - *If you find a better retailer in your country, let us know so we can list it here*
  - If you want the battery to fit underneath the nice!nano, you can't go much larger than 301230. It can *maybe* fit a 401230, but it's a tight fit.
    - Battery names are their dimensions. 301230 is 3.0mm x 12mm x 30mm.
