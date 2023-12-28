@@ -1,24 +1,40 @@
 ---
 sidebar_position: 9
 ---
-import DefaultKeymap from './default_keymap.svg';
+import DefaultKeymap6Col from './6_col_default_keymap.svg';
+import DefaultKeymap5Col from './5_col_default_keymap.svg';
 
 # Firmware
 
 If you're not familiar, ZMK is a wireless-focused firmware, and it powers our Corne Wireless. While it doesn't have a VIA alternative yet, it does allow you to build firmware in the cloud.
 
-## Test Files
-
 If you want to test out the Corne firmware on your keyboard, you can use our test files. These are pre-compiled but are not guaranteed to have the most up-to-date version of ZMK. Check how to install these files in the ["Installing Firmware"](#installing-firmware) section at the bottom of this page
+
+## 6 Column Corne Test Files
 
 |                  | ⬅️ Left Half | ➡️ Right Half |
 |------------------|--------------|---------------|
-| 🚫 **nice!view** |[Download](/assets/corne_left-nice_nano_v2-zmk.uf2)|[Download](/assets/corne_right-nice_nano_v2-zmk.uf2)|
-| ✅ **nice!view** |[Download](/assets/corne_left-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|[Download](/assets/corne_right-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|
+| 🚫 **nice!view** |[Download](/assets/6_col_corne_left-nice_nano_v2-zmk.uf2)|[Download](/assets/6_col_corne_right-nice_nano_v2-zmk.uf2)|
+| ✅ **nice!view** |[Download](/assets/6_col_corne_left-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|[Download](/assets/6_col_corne_right-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|
 
-## Default Keymap
+### 6 Column Default Keymap
 
-<DefaultKeymap className="keymap" />
+<DefaultKeymap6Col className="keymap" />
+
+*Generated with [@caksoylar's amazing keymap drawer](https://caksoylar.github.io/keymap-drawer).*
+
+## 5 Column Corne Test Files
+
+|                  | ⬅️ Left Half | ➡️ Right Half |
+|------------------|--------------|---------------|
+| ✅ **nice!view** |[Download](/assets/5_col_corne_left-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|[Download](/assets/5_col_corne_right-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|
+
+
+### 5 Column Default Keymap
+
+Since the 5 colum layout has limited space autoshift is setup by default.
+
+<DefaultKeymap5Col className="keymap" />
 
 *Generated with [@caksoylar's amazing keymap drawer](https://caksoylar.github.io/keymap-drawer).*
 
@@ -28,9 +44,11 @@ With the nature of a small keyboard like the Corne, you're likely interested in 
 
 We've created ZMK config repositories for the Corne Wireless for you to fork and use for yourself. If you'd like to set it up manually, follow the [ZMK documentation](https://zmk.dev/docs/user-setup).
 
-| 🚫 nice!view | ✅ nice!view |
-|------------------|--------------|
-|[Repository](https://github.com/typeractivexyz/corne-wireless-zmk-config)|[Repository](https://github.com/typeractivexyz/corne-wireless-view-zmk-config)|
+### Repos
+| Columns | 🚫 nice!view | ✅ nice!view |
+|---------|--------------|--------------|
+|6|[Repository](https://github.com/typeractivexyz/corne-wireless-zmk-config)|[Repository](https://github.com/typeractivexyz/corne-wireless-view-zmk-config)|
+|5| N/A |[Repository](https://github.com/rnikoopour/corne-wireless-view-zmk-config)
 
 After forking the repository in the top right corner, you'll want to enable GitHub Actions. To do this, go to the Actions tab and click the "I understand my workflows, go ahead and enable them" button.
 
