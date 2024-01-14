@@ -10,23 +10,27 @@ If you're not familiar, ZMK is a wireless-focused firmware, and it powers our Co
 
 If you want to test out the Corne firmware on your keyboard, you can use our test files. These are pre-compiled but are not guaranteed to have the most up-to-date version of ZMK. Check how to install these files in the ["Installing Firmware"](#installing-firmware) section at the bottom of this page
 
-## 6 Column Corne Test Files
+## Corne Test Files
 
 |                  | ⬅️ Left Half | ➡️ Right Half |
 |------------------|--------------|---------------|
 | 🚫 **nice!view** |[Download](/assets/6_col_corne_left-nice_nano_v2-zmk.uf2)|[Download](/assets/6_col_corne_right-nice_nano_v2-zmk.uf2)|
 | ✅ **nice!view** |[Download](/assets/6_col_corne_left-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|[Download](/assets/6_col_corne_right-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|
 
-### 6 Column Default Keymap
+### Default Keymap
 
 <DefaultKeymap6Col className="keymap" />
 
 *Generated with [@caksoylar's amazing keymap drawer](https://caksoylar.github.io/keymap-drawer).*
 
+<details>
+  <summary>5 Column Corne</summary>
+
 ## 5 Column Corne Test Files
 
 |                  | ⬅️ Left Half | ➡️ Right Half |
 |------------------|--------------|---------------|
+| 🚫 **nice!view** |[Download](/assets/5_col_corne_left-nice_nano_v2-zmk.uf2)|[Download](/assets/5_col_corne_right-nice_nano_v2-zmk.uf2)|
 | ✅ **nice!view** |[Download](/assets/5_col_corne_left-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|[Download](/assets/5_col_corne_right-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|
 
 
@@ -38,6 +42,8 @@ Since the 5 colum layout has limited space autoshift is setup by default.
 
 *Generated with [@caksoylar's amazing keymap drawer](https://caksoylar.github.io/keymap-drawer).*
 
+</details>
+
 ## Building Your Own Firmware
 
 With the nature of a small keyboard like the Corne, you're likely interested in making a custom keymap for it.
@@ -48,7 +54,7 @@ We've created ZMK config repositories for the Corne Wireless for you to fork and
 | Columns | 🚫 nice!view | ✅ nice!view |
 |---------|--------------|--------------|
 |6|[Repository](https://github.com/typeractivexyz/corne-wireless-zmk-config)|[Repository](https://github.com/typeractivexyz/corne-wireless-view-zmk-config)|
-|5| N/A |[Repository](https://github.com/rnikoopour/corne-wireless-view-zmk-config)
+|5|[Repository](https://github.com/typeractivexyz/corne-wireless-5-col-zmk-config)|[Repository](https://github.com/typeractivexyz/corne-wireless-5-col-view-zmk-config)|
 
 After forking the repository in the top right corner, you'll want to enable GitHub Actions. To do this, go to the Actions tab and click the "I understand my workflows, go ahead and enable them" button.
 
