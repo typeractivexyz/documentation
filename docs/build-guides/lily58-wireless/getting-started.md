@@ -39,8 +39,8 @@ If you would like a longer form video with extra commentary, we have a build str
  - 2x nice!nano
    - 2x hotswap sockets highly recommended
  - 2x nice!view (optional)
- - 42x switches
- - 38x 1U keycaps, 2x 1U homing keycaps, 2x 1.5U keycaps
+ - 58x switches
+ - 54x 1U keycaps, 2x 1U homing keycaps, 2x 1.5U keycaps
 
 All of these can be purchased from our [store](https://typeractive.xyz/store). Our customizer is the easiest way to get all of the parts you need.
 
