@@ -16,17 +16,13 @@ You can customize your wireless in 3D Lily58 at the [keyboard customizer](https:
 
 ## Build Videos
 
-:::caution
-The Lily58 Wireless is a new product, and we're still working on the build videos. We'll have them up as soon as possible. For now, the Corne build videos are here in place, as the build process is nearly identical.
-:::
-
 Each of the steps on the following pages has a short video tutorial, or you can watch one of the two full build videos below.
 
 There's a concise video made by Joe Scotto that goes over the entire build process. It's a great resource if you're looking for a quick overview of the build process.
 
-<iframe style={{maxWidth: "480px", aspectRatio: "16/9"}} width="100%" height="auto" src="https://www.youtube.com/embed/FJgvi7WShxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style={{maxWidth: "480px", aspectRatio: "16/9"}} width="100%" height="auto" src="https://www.youtube.com/embed/l5kAx08Iom4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-If you would like a longer form video with extra commentary, we have a build stream as well.
+If you would like a longer form video with extra commentary, we have a build stream as well for the Corne, which is similar.
 
 <iframe style={{maxWidth: "480px", aspectRatio: "16/9"}} width="100%" height="auto" src="https://www.youtube.com/embed/uT9ohua2RwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -42,7 +38,7 @@ If you would like a longer form video with extra commentary, we have a build str
  - 58x switches
  - 54x 1U keycaps, 2x 1U homing keycaps, 2x 1.5U keycaps
 
-All of these can be purchased from our [store](https://typeractive.xyz/store). Our customizer is the easiest way to get all of the parts you need.
+All of these can be purchased from our [store](https://typeractive.xyz/). Our customizer is the easiest way to get all of the parts you need.
 
 ## Tools Required
 
