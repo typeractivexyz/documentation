@@ -30,7 +30,7 @@ You will know it is in place when the USB-C port and display covers are flush wi
 
 ## Installing the back plate
 
-Once the PCB is in place, you can install the back plate. Each back plate has grooves for rubber feet. These grooves should be facing up to the outside of the case. Place the back plate on the case and grab the flat head screws. Screw the back plate into the case.
+Once the PCB is in place, you can install the back plate. Each back plate has grooves for rubber feet. These grooves should be facing up to the outside of the case. Place the back plate on the case and grab the **flat** head screws. Screw the back plate into the case. The round screws are for the display covers.
 
 ## Adding the rubber feet
 
