@@ -7,14 +7,24 @@ import DefaultKeymap from './default_keymap.svg';
 
 If you're not familiar, ZMK is a wireless-focused firmware, and it powers our Lily58 Wireless. While it doesn't have a VIA alternative yet, it does allow you to build firmware in the cloud.
 
-## Test Files
+## Firmware Files
 
-If you want to test out the Lily58 firmware on your keyboard, you can use our test files. These are pre-compiled but are not guaranteed to have the most up-to-date version of ZMK. Check how to install these files in the ["Installing Firmware"](#installing-firmware) section at the bottom of this page
+If you want to get running quickly, you can use our default firmware files. These are pre-compiled but are not guaranteed to have the most up-to-date version of ZMK. Check how to install these files in the ["Installing Firmware"](#installing-firmware) section at the bottom of this page
 
 |                  | ⬅️ Left Half | ➡️ Right Half |
 |------------------|--------------|---------------|
 | 🚫 **nice!view** |[Download](/assets/lily58_left-nice_nano_v2-zmk.uf2)|[Download](/assets/lily58_right-nice_nano_v2-zmk.uf2)|
 | ✅ **nice!view** |[Download](/assets/lily58_left-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|[Download](/assets/lily58_right-nice_view_adapter-nice_view-nice_nano_v2-zmk.uf2)|
+
+## Keymap Customization with ZMK Studio
+
+ZMK Studio provides runtime update functionality to ZMK powered devices, allowing users to change their keymap layers without flashing new firmware to their keyboards.
+
+The firmware files provided above are compatible with ZMK Studio. You can use the firmware files to flash your Lily58 Wireless and then use ZMK Studio to customize your keymap.
+
+You can use ZMK Studio with Chrome/Edge at https://zmk.studio/. The web app does not support updating via BLE, but the native app does.
+
+To use the native app for Linux, macOS, or Windows, download the appropriate file from the [latest release](https://github.com/zmkfirmware/zmk-studio/releases).
 
 ## Default Keymap
 
@@ -26,7 +36,7 @@ If you want to test out the Lily58 firmware on your keyboard, you can use our te
 
 With the nature of a small keyboard like the Lily58, you're likely interested in making a custom keymap for it.
 
-We've created ZMK config repositories for the Lily58 Wireless for you to  use as a template for yourself. If you'd like to set it up manually, follow the [ZMK documentation](https://zmk.dev/docs/user-setup).
+We've created ZMK config repositories for the Lily58 Wireless for you to use as a template for yourself. If you'd like to set it up manually, follow the [ZMK documentation](https://zmk.dev/docs/user-setup).
 
 | 🚫 nice!view | ✅ nice!view |
 |------------------|--------------|
