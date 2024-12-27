@@ -84,7 +84,8 @@ function addUrlsFromSitemap() {
       }
 
       const urls = result.urlset.url.map((url) => url.loc[0]);
-      const urlsContent = `# URLs\n\n${urls.join("\n")}\n`;
+      const comment = "Here are the URLs to each piece of documentation that can be sent when helpful."
+      const urlsContent = `# URLs\n\n${comment}\n\n${urls.join("\n")}\n`;
 
       fs.appendFileSync(outputFile, urlsContent, "utf-8");
       console.log(`URLs added to combined markdown file`);
