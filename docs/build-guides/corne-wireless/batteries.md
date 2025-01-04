@@ -52,6 +52,7 @@ You have your batteries, nice!nano, and nice!view installed! In the next guide, 
 While we've started shipping batteries to some international countries, unfortunately, we cannot ship batteries to every country. Because of this, here's a list of helpful tips for sourcing your batteries:
 
  - Our battery manufacturer has started selling on AliExpress. If you can deal with the slow shipping, you can get the batteries from them directly. [Here's the link](https://www.aliexpress.us/item/3256805162053912.html). Make sure to select the battery with the black connector; the large image does not always correspond to the selected option. Currently, it's the 3rd option.
+ - If you're in the EU, customers have had success (~1 week shipping, no VAT) with [this Ampul store listing](https://ampul.eu/en/battery/5763-li-pol-battery-110mah-37v-301230-ph2-3pin). 
  - Pay attention to polarity! Battery polarity is not standardized. Compare the battery you're looking to purchase with the ones we sell to ensure you're getting the right polarity.
  - Amazon and AliExpress are your best bets for purchasing the batteries you need from our experience.
    - *If you find a better retailer in your country, let us know so we can list it here*
