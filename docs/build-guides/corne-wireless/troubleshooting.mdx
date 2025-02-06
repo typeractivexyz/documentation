@@ -4,7 +4,7 @@ sidebar_position: 10
 
 import CornePins from './corne_pins.svg';
 
-# Troubleshooting
+# Troubleshooting & Pinouts
 
 If you're running into issues with your keyboard, check out our [Troubleshooting](/troubleshooting) page for common issues and solutions. If you're still having trouble, please reach out to use on [Discord](https://typeractive.xyz/discord)!
 
@@ -12,6 +12,28 @@ If you're running into issues with your keyboard, check out our [Troubleshooting
 
 Below you can see which pins on the nice!nano lineup with the Corne's rows and columns.
 
-If you're having issues with a specific row or column, use this diagram along with the [troubleshoting guide](/troubleshooting/rows-columns-not-working) to help you diagnose the issue.
+If you're having issues with a specific row or column, use this diagram along with the [troubleshooting guide](/troubleshooting/rows-columns-not-working) to help you diagnose the issue.
 
 <CornePins />
+
+Definitions can be found in the dtsi for the [Rows](https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/corne/corne.dtsi), [Left column](https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/corne/corne_left.overlay) and [Right column](https://github.com/zmkfirmware/zmk/blob/main/app/boards/shields/corne/corne_right.overlay)
+
+## Spare pins
+
+Not all the pins on the nice!nano are used and depending on if you have a nice!view or not the following pins are available:
+
+| 🚫 nice!view  | ✅ nice!view |
+|-------- |-------------|
+| P0.06   | ~~P0.06~~  |
+| P0.08   | P0.08  |
+| P0.17   | ~~P0.17~~  |
+| P0.20   | ~~P0.20~~  |
+| P1.04   | P1.04  |
+| P1.06   | P1.06  |
+| P0.10   | P0.10  |
+| P0.09   | P0.09  |
+| P1.01^  | P1.01^ |
+| P1.02^  | P1.02^ |
+| P1.07^  | P1.07^ |
+
+^ These pins are on the middle of the board rather than on the edges.

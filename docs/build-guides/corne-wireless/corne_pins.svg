@@ -7,7 +7,7 @@
    version="1.1"
    id="svg568"
    sodipodi:docname="corne_pins.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,14 +22,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.8526198"
-     inkscape:cx="507.11971"
-     inkscape:cy="158.42431"
-     inkscape:window-width="3840"
-     inkscape:window-height="2071"
-     inkscape:window-x="2691"
-     inkscape:window-y="1155"
-     inkscape:window-maximized="1"
+     inkscape:zoom="1.31"
+     inkscape:cx="383.2061"
+     inkscape:cy="311.45038"
+     inkscape:window-width="2739"
+     inkscape:window-height="1742"
+     inkscape:window-x="1361"
+     inkscape:window-y="235"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g182" />
   <defs
      id="defs572" />
@@ -272,8 +272,8 @@ path.combo {
     <rect
        rx="6.7671661"
        ry="5.737287"
-       x="553.07544"
-       y="601.7605"
+       x="501.42899"
+       y="550.11401"
        width="58.648773"
        height="29.241695"
        class="key"
@@ -281,8 +281,8 @@ path.combo {
        style="stroke-width:0.796393"
        transform="rotate(-45)" />
     <text
-       x="582.39984"
-       y="617.65625"
+       x="530.75336"
+       y="566.00977"
        class="tap"
        id="text8-0-17-0"
        style="dominant-baseline:middle;text-anchor:middle"
@@ -290,8 +290,8 @@ path.combo {
     <rect
        rx="6.7671661"
        ry="5.737287"
-       x="513.94153"
-       y="562.62653"
+       x="462.29507"
+       y="510.98007"
        width="58.648773"
        height="29.241695"
        class="key"
@@ -299,8 +299,8 @@ path.combo {
        style="stroke-width:0.796393"
        transform="rotate(-45)" />
     <text
-       x="543.26587"
-       y="578.52228"
+       x="491.61942"
+       y="526.87579"
        class="tap"
        id="text8-0-17-9-3"
        style="dominant-baseline:middle;text-anchor:middle"
@@ -308,8 +308,8 @@ path.combo {
     <rect
        rx="6.7671661"
        ry="5.737287"
-       x="474.60452"
-       y="523.28961"
+       x="422.95807"
+       y="471.64316"
        width="58.648773"
        height="29.241695"
        class="key"
@@ -317,8 +317,8 @@ path.combo {
        style="stroke-width:0.796393"
        transform="rotate(-45)" />
     <text
-       x="503.92899"
-       y="539.18536"
+       x="452.28253"
+       y="487.53891"
        class="tap"
        id="text8-0-17-2-5"
        style="dominant-baseline:middle;text-anchor:middle"
@@ -326,8 +326,8 @@ path.combo {
     <rect
        rx="6.7671661"
        ry="5.737287"
-       x="435.20807"
-       y="484.01205"
+       x="383.56161"
+       y="432.3656"
        width="58.648773"
        height="29.241695"
        class="key"
@@ -335,8 +335,8 @@ path.combo {
        style="stroke-width:0.796393"
        transform="rotate(-45)" />
     <text
-       x="464.53244"
-       y="499.90781"
+       x="412.88599"
+       y="448.26135"
        class="tap"
        id="text8-0-17-7-2"
        style="dominant-baseline:middle;text-anchor:middle"
@@ -344,8 +344,8 @@ path.combo {
     <rect
        rx="6.7671661"
        ry="5.737287"
-       x="395.87112"
-       y="444.67511"
+       x="344.22467"
+       y="393.02866"
        width="58.648773"
        height="29.241695"
        class="key"
@@ -353,8 +353,8 @@ path.combo {
        style="stroke-width:0.796393"
        transform="rotate(-45)" />
     <text
-       x="425.1955"
-       y="460.57086"
+       x="373.54904"
+       y="408.92441"
        class="tap"
        id="text8-0-17-8-7"
        style="dominant-baseline:middle;text-anchor:middle"
@@ -362,8 +362,8 @@ path.combo {
     <rect
        rx="6.7671661"
        ry="5.737287"
-       x="356.53415"
-       y="405.33813"
+       x="304.8877"
+       y="353.69168"
        width="58.648773"
        height="29.241695"
        class="key"
@@ -371,8 +371,8 @@ path.combo {
        style="stroke-width:0.796393"
        transform="rotate(-45)" />
     <text
-       x="385.85855"
-       y="421.23389"
+       x="334.2121"
+       y="369.58743"
        class="tap"
        id="text8-0-17-83-6"
        style="dominant-baseline:middle;text-anchor:middle"
@@ -482,84 +482,84 @@ path.combo {
     <rect
        rx="6"
        ry="6"
-       x="530.20435"
+       x="457.16525"
        y="84.520905"
        width="52"
        height="52"
        class="key"
        id="rect30" />
     <text
-       x="556.20435"
+       x="483.16525"
        y="110.5209"
        class="tap"
        id="text32">Y</text>
     <rect
        rx="6"
        ry="6"
-       x="586.20435"
+       x="513.16522"
        y="77.520905"
        width="52"
        height="52"
        class="key"
        id="rect34" />
     <text
-       x="612.20435"
+       x="539.16522"
        y="103.5209"
        class="tap"
        id="text36">U</text>
     <rect
        rx="6"
        ry="6"
-       x="642.20435"
+       x="569.16522"
        y="70.520905"
        width="52"
        height="52"
        class="key"
        id="rect38" />
     <text
-       x="668.20435"
+       x="595.16522"
        y="96.520905"
        class="tap"
        id="text40">I</text>
     <rect
        rx="6"
        ry="6"
-       x="698.20435"
+       x="625.16522"
        y="77.520905"
        width="52"
        height="52"
        class="key"
        id="rect42" />
     <text
-       x="724.20435"
+       x="651.16522"
        y="103.5209"
        class="tap"
        id="text44">O</text>
     <rect
        rx="6"
        ry="6"
-       x="754.20435"
+       x="681.16522"
        y="91.520905"
        width="52"
        height="52"
        class="key"
        id="rect46" />
     <text
-       x="780.20435"
+       x="707.16522"
        y="117.5209"
        class="tap"
        id="text48">P</text>
     <rect
        rx="6"
        ry="6"
-       x="810.20435"
+       x="737.16522"
        y="91.520905"
        width="52"
        height="52"
        class="key"
        id="rect50" />
     <text
-       x="836.20435"
+       x="763.16522"
        y="117.5209"
        class="tap"
        id="text52">BSPC</text>
@@ -650,84 +650,84 @@ path.combo {
     <rect
        rx="6"
        ry="6"
-       x="530.20435"
+       x="457.16525"
        y="140.5209"
        width="52"
        height="52"
        class="key"
        id="rect78" />
     <text
-       x="556.20435"
+       x="483.16525"
        y="166.5209"
        class="tap"
        id="text80">H</text>
     <rect
        rx="6"
        ry="6"
-       x="586.20435"
+       x="513.16522"
        y="133.5209"
        width="52"
        height="52"
        class="key"
        id="rect82" />
     <text
-       x="612.20435"
+       x="539.16522"
        y="159.5209"
        class="tap"
        id="text84">J</text>
     <rect
        rx="6"
        ry="6"
-       x="642.20435"
+       x="569.16522"
        y="126.5209"
        width="52"
        height="52"
        class="key"
        id="rect86" />
     <text
-       x="668.20435"
+       x="595.16522"
        y="152.5209"
        class="tap"
        id="text88">K</text>
     <rect
        rx="6"
        ry="6"
-       x="698.20435"
+       x="625.16522"
        y="133.5209"
        width="52"
        height="52"
        class="key"
        id="rect90" />
     <text
-       x="724.20435"
+       x="651.16522"
        y="159.5209"
        class="tap"
        id="text92">L</text>
     <rect
        rx="6"
        ry="6"
-       x="754.20435"
+       x="681.16522"
        y="147.5209"
        width="52"
        height="52"
        class="key"
        id="rect94" />
     <text
-       x="780.20435"
+       x="707.16522"
        y="173.5209"
        class="tap"
        id="text96">;</text>
     <rect
        rx="6"
        ry="6"
-       x="810.20435"
+       x="737.16522"
        y="147.5209"
        width="52"
        height="52"
        class="key"
        id="rect98" />
     <text
-       x="836.20435"
+       x="763.16522"
        y="173.5209"
        class="tap"
        id="text100">'</text>
@@ -818,104 +818,108 @@ path.combo {
     <rect
        rx="6"
        ry="6"
-       x="530.20435"
+       x="457.16525"
        y="196.5209"
        width="52"
        height="52"
        class="key"
        id="rect126" />
     <text
-       x="556.20435"
+       x="483.16525"
        y="222.5209"
        class="tap"
        id="text128">N</text>
     <rect
        rx="6"
        ry="6"
-       x="586.20435"
+       x="513.16522"
        y="189.5209"
        width="52"
        height="52"
        class="key"
        id="rect130" />
     <text
-       x="612.20435"
+       x="539.16522"
        y="215.5209"
        class="tap"
        id="text132">M</text>
     <rect
        rx="6"
        ry="6"
-       x="642.20435"
+       x="569.16522"
        y="182.5209"
        width="52"
        height="52"
        class="key"
        id="rect134" />
     <text
-       x="668.20435"
+       x="595.16522"
        y="208.5209"
        class="tap"
        id="text136">,</text>
     <rect
        rx="6"
        ry="6"
-       x="698.20435"
+       x="625.16522"
        y="189.5209"
        width="52"
        height="52"
        class="key"
        id="rect138" />
     <text
-       x="724.20435"
+       x="651.16522"
        y="215.5209"
        class="tap"
        id="text140">.</text>
     <rect
        rx="6"
        ry="6"
-       x="754.20435"
+       x="681.16522"
        y="203.5209"
        width="52"
        height="52"
        class="key"
        id="rect142" />
     <text
-       x="780.20435"
+       x="707.16522"
        y="229.5209"
        class="tap"
        id="text144">/</text>
     <rect
        rx="6"
        ry="6"
-       x="810.20435"
+       x="737.16522"
        y="203.5209"
        width="52"
        height="52"
        class="key"
        id="rect146" />
     <text
-       x="836.20435"
+       x="763.16522"
        y="229.5209"
        class="tap"
        id="text148">ESC</text>
-    <rect
-       rx="6"
-       ry="6"
-       x="222.20435"
-       y="247.36891"
-       width="52"
-       height="52"
-       class="key"
-       id="rect150" />
-    <text
-       x="248.20435"
-       y="273.3689"
-       class="tap"
-       id="text152">LGUI</text>
     <g
-       transform="rotate(15,265.14933,253.32925)"
-       id="g158">
+       id="g1"
+       transform="translate(-27.999613,-8.8483637)">
+      <rect
+         rx="6"
+         ry="6"
+         x="222.20435"
+         y="247.36891"
+         width="52"
+         height="52"
+         class="key"
+         id="rect150" />
+      <text
+         x="248.20435"
+         y="273.3689"
+         class="tap"
+         id="text152">LGUI</text>
+    </g>
+    <g
+       id="g158"
+       transform="translate(-39.395273,2.4405462)">
       <rect
          rx="6"
          ry="6"
@@ -932,8 +936,8 @@ path.combo {
          id="text156">lower</text>
     </g>
     <g
-       transform="rotate(30,354.85785,275.7256)"
-       id="g164">
+       id="g164"
+       transform="translate(-48.915262,12.240549)">
       <rect
          rx="6"
          ry="6"
@@ -950,8 +954,8 @@ path.combo {
          id="text162">SPACE</text>
     </g>
     <g
-       transform="rotate(-30,539.34649,297.3553)"
-       id="g170">
+       id="g170"
+       transform="translate(-35.714386,12.240549)">
       <rect
          rx="6"
          ry="6"
@@ -968,8 +972,8 @@ path.combo {
          id="text168">RET</text>
     </g>
     <g
-       transform="rotate(-15,629.05501,297.35165)"
-       id="g176">
+       id="g176"
+       transform="translate(-45.234405,2.4405462)">
       <rect
          rx="6"
          ry="6"
@@ -985,20 +989,24 @@ path.combo {
          class="tap"
          id="text174">raise</text>
     </g>
-    <rect
-       rx="6"
-       ry="6"
-       x="614.20435"
-       y="247.36891"
-       width="52"
-       height="52"
-       class="key"
-       id="rect178" />
-    <text
-       x="640.20435"
-       y="273.3689"
-       class="tap"
-       id="text180">RALT</text>
+    <g
+       id="g2"
+       transform="translate(-45.038727,-8.8483637)">
+      <rect
+         rx="6"
+         ry="6"
+         x="614.20435"
+         y="247.36891"
+         width="52"
+         height="52"
+         class="key"
+         id="rect178" />
+      <text
+         x="640.20435"
+         y="273.3689"
+         class="tap"
+         id="text180">RALT</text>
+    </g>
     <rect
        rx="6.7671661"
        ry="5.737287"
@@ -1014,6 +1022,66 @@ path.combo {
        y="285.51407"
        class="tap"
        id="text8-0-8"
+       style="dominant-baseline:middle;text-anchor:middle">P0.11</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="810.77295"
+       y="101.42674"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-13"/>
+    <text
+       x="840.09735"
+       y="117.32249"
+       class="tap"
+       id="text8-0-89"
+       style="dominant-baseline:middle;text-anchor:middle">P0.22</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="810.85156"
+       y="157.63181"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-1-9"/>
+    <text
+       x="840.17596"
+       y="173.52756"
+       class="tap"
+       id="text8-0-4-1"
+       style="dominant-baseline:middle;text-anchor:middle">P0.24</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="810.85156"
+       y="213.62497"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-7-8"/>
+    <text
+       x="840.17596"
+       y="229.52072"
+       class="tap"
+       id="text8-0-1-1"
+       style="dominant-baseline:middle;text-anchor:middle">P1.00</text>
+    <rect
+       rx="6.7671661"
+       ry="5.737287"
+       x="810.85156"
+       y="269.61813"
+       width="58.648773"
+       height="29.241695"
+       class="key"
+       id="rect6-7-3-9"/>
+    <text
+       x="840.17596"
+       y="285.51389"
+       class="tap"
+       id="text8-0-8-8"
        style="dominant-baseline:middle;text-anchor:middle">P0.11</text>
   </g>
 </svg>
