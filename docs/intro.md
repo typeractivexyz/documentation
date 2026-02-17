@@ -8,4 +8,6 @@ sidebar_position: 1
 
 Welcome to the Typeractive documentation! Here you'll find build guides and troubleshooting documentation for all of our kits.
 
+If you want to shop parts or complete builds, see our [keyboard kit customizer](https://typeractive.xyz/pages/build).
+
 Please feel free to contribute to this documentation by clicking the 'Edit this page' link at the bottom of each page. Alternatively, let us know if anything should be changed on our [Discord server](https://typeractive.xyz/discord).

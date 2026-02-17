@@ -6,6 +6,8 @@ sidebar_position: 4
 
 Installing the batteries is a simple but particular step. This guide will go over the positioning and installation of them.
 
+You can find compatible parts on our shop: [110mAh battery](https://typeractive.xyz/products/lithium-battery-110mah).
+
 :::caution
 This guide is meant for the batteries that we sell on our store. If you are an international customer sourcing your batteries yourself, please follow the tips at the bottom.
 :::

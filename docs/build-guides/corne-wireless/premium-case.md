@@ -10,6 +10,8 @@ sidebar_position: 6
 
 If you opted for a premium case, it's now time to assemble it, otherwise move on to the next step. This guide will walk you through the process of putting the case together.
 
+Need this part or a replacement? Shop [Corne Premium Aluminum Case](https://typeractive.xyz/products/corne-wireless-premium-aluminum-case).
+
 ## Installing the Switch Interface
 
 :::caution

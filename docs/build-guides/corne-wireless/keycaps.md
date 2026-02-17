@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Keycaps are the final step in the physical build process. This guide will go over the keycaps and how to install them.
 
+For keycap sets that fit this build, see [MBK keycaps](https://typeractive.xyz/products/mbk-keycaps) for choc and [DSA keycaps](https://typeractive.xyz/products/dsa-keycaps) for MX.
+
 ## Types of Keycaps
 
  - **1U**: These are used for most keys

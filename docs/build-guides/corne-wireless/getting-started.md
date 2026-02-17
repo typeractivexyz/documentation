@@ -12,7 +12,7 @@ Our Corne Wireless is made to make the perfect wireless keyboard. We made the fo
  - Partially Assembled: No need to solder the hotswap sockets, diodes, reset button, power switch, or JST jack
  - Choc PCB: Our Choc PCB is using Choc spacing, which makes it more compact than usual
 
-You can customize your wireless in 3D Corne at the [keyboard customizer](https://typeractive.xyz/pages/build).
+You can customize your wireless in 3D Corne at the [keyboard kit customizer](https://typeractive.xyz/pages/build).
 
 ## Build Videos
 

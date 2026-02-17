@@ -6,6 +6,8 @@ sidebar_position: 6
 
 Installing switches is a straightforward but sometimes finicky process. This guide will go over installing the switches and switch plate.
 
+Need switches for this step? Browse [Choc switches](https://typeractive.xyz/products/choc-switches).
+
 ## Installing the Switches into the Plate
 
 We recommend putting most if not all of your switches into the plate first. This is because it can be hard to push the switches into the plate if you have the PCB in the way.

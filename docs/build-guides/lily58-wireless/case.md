@@ -6,6 +6,8 @@ sidebar_position: 7
 
 The case ties the whole build together. This guide will go over installing the case and the PCB.
 
+Shop compatible options here: [Lily58 Case](https://typeractive.xyz/products/lily58-case).
+
 ## Video Tutorial
 
 <iframe style={{maxWidth: "640px", aspectRatio: "16/9"}} width="100%" height="auto" src="https://www.youtube.com/embed/JIKqtEwJmRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
