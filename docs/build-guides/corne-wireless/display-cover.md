@@ -19,7 +19,7 @@ The display cover helps protect your display and nice!nano from damage. In this 
 ## Peel the Protective Paper and Film
 
 1. Peel the protective paper from your display cover if they're acrylic
-2. Peel the protective film from your nice!views if you have them (optional)
+2. Peel the protective film from your nice!views if you have them (optional). It is only on the black rectangle area and does not extend to the transparent edges. If there is any resistance, stop pulling, as that is not the screen protector.
 
 ## Screw the Cover On
 
